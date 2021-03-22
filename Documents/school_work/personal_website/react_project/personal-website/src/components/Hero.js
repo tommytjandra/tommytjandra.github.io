@@ -6,7 +6,7 @@ import { FaLinkedin, FaEnvelope, FaGithub } from 'react-icons/fa';
 function Hero() {
   return (
     <div className="hero-container">
-      <img src="images/headshot.jpg" alt="headshot.jpg" id="headshot"/>
+      <img src="images/headshot.JPG" alt="headshot.jpg" id="headshot"/>
       <h1>Tommy Tjandra</h1>
       <div className="typed">
         <ReactTypingEffect
