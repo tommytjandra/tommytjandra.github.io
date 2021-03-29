@@ -28,11 +28,6 @@ function Hero() {
             <FaGithub id="github-icon" size={20}/>
           </a>
       </div>
-      {/* <div className="icons">
-            <FaLinkedin id="linkedin-icon" size={20}/>
-            <FaEnvelope id="mail-icon" size={20}/>
-            <FaGithub id="github-icon" size={20}/>
-      </div> */}
     </div>
   )
 }
